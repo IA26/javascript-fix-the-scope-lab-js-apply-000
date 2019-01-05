@@ -13,7 +13,7 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-funcion yourAnimal() {
+function yourAnimal() {
   var animal = 'cat';
   return animal;
 }
